@@ -83,6 +83,5 @@
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdnayeemsarker&theme=aura" height="180em" />
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdnayeemsarker&theme=rose_pine" height="180em" />
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdnayeemsarker&theme=algolia" height="180em" />
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdnayeemsarker&theme=2077" height="180em" />
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdnayeemsarker&theme=2077" height="180em" />
 </div>
