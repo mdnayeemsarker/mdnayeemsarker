@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Backend Developer</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnayeemsarker&label=Profile%20views&color=0e75b6&style=flat" alt="mdnayeemsarker" /> </p> -->
 
-<p align="left"> <a href="#"><img src="https://camo.githubusercontent.com/59e0df37a0c9f727381e12f96805a25b2cb8730894e74c81a991694e793c6ea8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6e6f6d616e32303136267468656d653d7261646963616c266e6f2d6672616d653d66616c7365266e6f2d62673d74727565266d617267696e2d773d34" alt="mdnayeemsarker" /></a> </p>
+<p align="left"> <a href="#"><img src="https://avatars.githubusercontent.com/u/34866701?s=400&u=04f4ad2100505fb87da942fc8afa2ae4186382fb&v=4" alt="mdnayeemsarker" /></a> </p>
 
 - 🔭 I’m currently working on **JuktoApp**
 - 👯 I’m looking to collaborate on **ReadersFM**
