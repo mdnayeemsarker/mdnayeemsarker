@@ -1,8 +1,10 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm MD NAYEEM SARKER</h1>
 <h3 align="center">Full Stack Backend Developer</h3>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnayeemsarker&label=Profile%20views&color=0e75b6&style=flat" alt="mdnayeemsarker" /> </p> -->
 
-<p align="left"> <a href="#"><img src="https://avatars.githubusercontent.com/u/34866701?s=400&u=04f4ad2100505fb87da942fc8afa2ae4186382fb&v=4" alt="mdnayeemsarker" /></a> </p>
+<p align="left"> <a href="#"><img width="150px" src="https://avatars.githubusercontent.com/u/34866701?s=400&u=04f4ad2100505fb87da942fc8afa2ae4186382fb&v=4" alt="mdnayeemsarker" /></a> </p>
+
 
 - 🔭 I’m currently working on **JuktoApp**
 - 👯 I’m looking to collaborate on **ReadersFM**
